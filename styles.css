@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+    color:#fff;
+    font-weight: 800;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.header, .sidebar, .ads, .main, .news, .footer {
+padding: 1rem 0;
+}
+
+.container {
+height: 100%;
+}
+
+.header {
+background-color: #253b4a;
+} 
+
+.sidebar {
+background-color: #ffbc00;
+}
+
+.ads {
+background-color: #257d92;
+}
+
+.main {
+background-color: #ff530d;
+}
+
+.news {
+background-color: #cb9707;
+}
+
+.footer {
+background-color: #0c5669;
+}
